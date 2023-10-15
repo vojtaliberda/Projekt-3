@@ -2,7 +2,7 @@
 
 This Python script scrapes election data from a website and generates a CSV file with the collected data.
 
-# Usage
+## Usage
 
 To use this script, follow these steps:
 
